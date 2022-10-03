@@ -1,3 +1,7 @@
+/*
+    SirSpooki
+    SlayTeam 2023
+*/
 class Triangle {
     public static void main(String[] args) {
         System.out.println("      T");
