@@ -12,5 +12,10 @@ Excercise Instructions
 --
 Write, compile, and test a class that displays the first few lines of the lyrics of your favorite song.
 
-2
+6-2
 --
+Write, compile, and test the MovieQuoteInfo class so that it displays your favorite movie quote, the movie it comes from, the character who said it, and the year of the movie.
+
+6-3
+--
+
