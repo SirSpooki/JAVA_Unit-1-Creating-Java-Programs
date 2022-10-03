@@ -1,3 +1,7 @@
+/*
+    SirSpooki
+    SlayTeam 2023
+*/
 class TableAndChairs {
     public static void main(String[] args) {
         System.out.println("X                      X");
