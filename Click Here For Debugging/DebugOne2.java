@@ -1,3 +1,7 @@
+/*
+    SirSpooki
+    SlayTeam 2023
+*/
 public class DebugOne2
 {
    /* This program displays some output*/
